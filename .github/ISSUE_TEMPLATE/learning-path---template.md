@@ -1,14 +1,19 @@
 ---
 name: Learning Path - Template
 about: 'Java Learning Path provided by the CoE '
-title: "[Learning Path]"
+title: "[Module Name]"
 labels: ''
 assignees: ''
 
 ---
 
-# Module: OOP
-### Topics: Polymorphism, Inheritance, Abstraction, Encapsulation
-### Estimated Time: 5 Hrs
-### Resources
-- [ ] [Poo, Danny. (2008). Object-Oriented Programming and Java](https://twitter.com/souljaboy/status/1048239533500784641)
+### 📃Topics: 
+
+### ⏱️Estimated Time:
+
+### 📚Resources:
+- [ ] 📖 [Author1 Last Name, Author1 First Name & Author2 Last Name, Author2 First Name. (YEAR) _Book Name_](Resource link)
+- 💻 [_Course Name_ - Course Author. ](Course Link)
+- [ ] Section X
+- [ ] Section Y
+- [ ] Section Z
